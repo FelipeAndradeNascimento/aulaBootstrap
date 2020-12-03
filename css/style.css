@@ -1,0 +1,22 @@
+body{
+    font: 20px Arial, Helvetica, sans-serif;
+}
+
+.navbar { background-color: #41868D; }
+
+/* fundo da section */
+.quemsomos{ 
+    background-color : #95CCD2; 
+    color: white;
+}
+
+.parceirosCss{
+    background-color : #3FACB8;
+}
+
+.servicoCss{}
+
+.margin{ 
+    padding-top: 10px;
+    padding-bottom: 50px; 
+}
